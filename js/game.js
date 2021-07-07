@@ -13,7 +13,8 @@ bgImage.onload = function () {
 };
 bgImage.src = "images/background-poly.png";
 
-// THIS IS A RANDOM COMMENT BY TARYN
+// THIS IS A RANDOM COMMENT BY
+// AND ANOTHER COMMENT ON MASTER
 
 // Hero image
 var petReady = false;

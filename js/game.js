@@ -38,6 +38,7 @@ var cheesesCaught = 0;
 
 // Handle keyboard controls
 var keysDown = {};
+var name = "sophie";
 
 addEventListener("keydown", function (e) {
 	keysDown[e.keyCode] = true;

@@ -121,7 +121,7 @@ var render = function () {
   ctx.textBaseline = "top";
   ctx.fillText("Pieces of cheese: " + cheesesCaught, 32, 32);
 };
-
+// hello i am learning here 
 // The main game loop
 var main = function () {
   var now = Date.now();
@@ -148,3 +148,5 @@ requestAnimationFrame =
 var then = Date.now();
 reset();
 main();
+
+// another comment here

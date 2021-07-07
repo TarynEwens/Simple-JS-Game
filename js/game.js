@@ -40,7 +40,7 @@ var cheesesCaught = 0;
 
 // Handle keyboard controls
 var keysDown = {};
-var name = "benson";
+var name = "Taryn";
 
 addEventListener(
   "keydown",
